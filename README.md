@@ -1,0 +1,2 @@
+# Quick-data-processing-for-fluorescence-spectrometer-data-for-critical-micelle-concentration-CMC-test
+This is a quick tool to process fluoresence spectrometer data in .txt exported by Labsolution RF. Including processing triplicate and single set of data. All you need to do is to name your exported data by their concentration. And in the code, you have to change your path of folder. This code will help you graph raw data and CMC prediction.
